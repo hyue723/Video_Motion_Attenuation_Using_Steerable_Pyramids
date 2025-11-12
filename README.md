@@ -37,6 +37,7 @@ The method supports both:
 ├── data/                               # Input videos
 ├── results/                            # Output videos and figures
 ├── project_report_final.pdf            # Detailed report
+├── project_presentation_recording.mp4
 └── README.md
 ```
 
